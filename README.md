@@ -1,4 +1,4 @@
-# alexa-cicd
-Alexa CICD
+# SIlly hack
+Silly CI
 
-![alt text](DevOpsPalArchDiagram.png "DevOps Pal Architecture Diagram")
+![alt text](sillyhacks.png "Silly CI Architecture Diagram")
